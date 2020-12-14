@@ -1,1 +1,1 @@
-worker: python TizZyBot.py $PORT
+web: TizZyBot.py python
