@@ -1,1 +1,1 @@
-web: TizZyBot.py python
+bot: python3 TizZyBot.py
