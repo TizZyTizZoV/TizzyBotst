@@ -1,1 +1,1 @@
-worker: TizZyBot.py
+web: TizZyBot.py
